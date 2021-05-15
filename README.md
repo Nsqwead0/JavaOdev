@@ -1,2 +1,2 @@
 # JavaOdev
-Java
+Bu bir java ödevidir ciddiye almayın
